@@ -1,1 +1,1 @@
-# Laboratorio-de-M-todos-Cuantitativos-aplicados-a-la-Gesti-n--FCE---UBA
+# Laboratorio-de-Métodos-Cuantitativos-aplicados-a-la-Gestión--FCE---UBA
