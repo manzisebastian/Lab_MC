@@ -1,3 +1,9 @@
-# Laboratorio-de-Métodos-Cuantitativos-aplicados-a-la-Gestión--FCE---UBA
+# Laboratorio de Métodos Cuantitativos aplicados a la Gestión
 
-Todo el material que se encuentra en este repositorio es para ser utilizado en el contexto del dictado de la materia Métodos Cuantitativos aplicados a la Gestión de la Tecnicatura en Gestión y Análisis de Datos de la Facultad de Ciencias Económicas de la UBA.
+## 👋 Bienvenido/a!
+
+Este repositorio incluye todo el material para ser utilizado en el contexto del dictado de la materia "Laboratorio de Métodos Cuantitativos aplicados a la Gestión" de la *Tecnicatura en Gestión y Análisis de Datos* de la Facultad de Ciencias Económicas de la UBA.
+
+Este repositorio es el resultado de un trabajo conjunto entre:
+- Coordinadora + docente a cargo: Morrone, Rita
+- Asistentes docentes (en orden alfabético): Báez, Franco; Da Torre, Juan Ignacio; Manzi, Sebastián & Marrazzo, Gina.
